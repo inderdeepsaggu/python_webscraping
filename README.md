@@ -1,5 +1,4 @@
-#Web Scraping Using Python
-<h1>Blackjack Project</h1>
+<h1>Web Scraping Using Python</h1>
 
 <p>Blackjack is a console-based application that allows players to enjoy the classic card game of Blackjack. This game is designed and implemented using <strong>Object-Oriented Programming principles</strong> for a structured and maintainable codebase. It simulates a simplified version of Blackjack, where a player can play against a computer dealer.</p>
 
