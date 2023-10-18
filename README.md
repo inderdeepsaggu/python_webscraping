@@ -1,25 +1,13 @@
 <h1>Web Scraping Using Python</h1>
 
-<p>Blackjack is a console-based application that allows players to enjoy the classic card game of Blackjack. This game is designed and implemented using <strong>Object-Oriented Programming principles</strong> for a structured and maintainable codebase. It simulates a simplified version of Blackjack, where a player can play against a computer dealer.</p>
-
-<h2>Features: </h2>
+<p>This personal project involved leveraging Python to extract vital information from a specific website, focusing on Canada's largest companies based on their revenue. The project highlights the following key accomplishments: </p>
 <ol>
-  <li><strong>Card and Deck Classes:</strong></li>
-    -The game utilizes a Deck class to represent a standard deck of 52 cards, and a Card class to define the properties of individual cards (suit, rank, and value).
-  <li><strong>Hand and Chips Classes:</strong></li>
-    -The game utilizes a Hand class to represent the cards in the players possession. The Hand class also adjusts for 'Ace' values since they can be 1 or 11. The Chips class represents the virtual currency the player currently possesses. Default amount the player starts with is 100.
-  <li><strong>Game Logic:</strong></li>
-    -The game logic follows the standard rules of Blackjack. Players are dealt two cards, and the objective is to get a hand value as close to 21 as possible without exceeding it. Players can choose to "hit" to receive another card or "stand" to keep their current hand.
-  <li><strong>Betting System:</strong></li>
-    -The game can include a simple betting system, where players start with a certain amount of virtual currency and can place bets on each hand. This is controlled through the Chips Class.
-  <li><strong>User Interaction:</strong></li>
-    -The game provides a text-based user interface in the console, allowing players to input their decisions (e.g., "hit" or "stand") via the keyboard.
-  <li><strong>Win/Loss Scenarios:</strong></li>
-    -The game checks for win, loss, or draw conditions based on the hand values and decides the outcome of each round.
-  <li><strong>Continuation and Replay:</strong></li>
-    -After each round, players can decide whether to continue playing, place a new bet, or exit the game.
-  <li><strong>Error Handling:</strong></li>
-    -The code includes error handling to prevent invalid inputs and ensure a smooth gaming experience.
+  <li><strong>Web Scraping:</strong></li>
+    -I utilized Python to proficiently scrape essential data from a targeted website. This involved retrieving specific details about Canada's top revenue-generating companies. Website: https://en.wikipedia.org/wiki/List_of_largest_companies_in_Canada
+  <li><strong>Data Organization and Structuring:</strong></li>
+    -I applied my skills in data management by utilizing the <strong>Pandas library</strong> to structure and arrange the scraped data into a well-organized DataFrame. This step was pivotal in ensuring that the information was easily accessible and ready for analysis.
+  <li><strong>Data Export:</strong></li>
+    -After successfully collecting and structuring the data, I implemented a data export mechanism to save the information into a CSV file. This practice is essential for maintaining data integrity and making it readily available for further analysis or future reference.
 </ol>
 
-<p>By implementing these features using OOP principles, the code for Blackjack is organized, modular, and easy to maintain and extend. Players can enjoy the classic card game within the console and test their luck and skill in a digital Blackjack environment.</p>
+<p>This project demonstrates my proficiency in web scraping, data manipulation, and data export using Python. These capabilities are highly relevant in roles that involve data-related tasks and analysis, underscoring my ability to collect, manage, and store data efficiently and effectively.</p>
